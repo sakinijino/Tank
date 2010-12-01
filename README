@@ -1,0 +1,30 @@
+==Installation==
+  = Environment:
+    * TANK is a DOS game so that can not run at Win32 mode.
+    * You can use Dos emulator (eg. www.Dosbox.com) to run the game.
+  = Play with Binary:
+    * Copy all files in ./bgi to ./bin.
+    * Run Tank.exe.
+  = Play with Source Code:
+    * Setup your pascal programming environment (eg. Turbo Pascal).
+    * Copy all files in ./bgi to ./src.
+    * Build Tank.pas.
+
+==Play==
+  = Keybroad Control:
+    * Up\Down\Left\Right: Direction keys;
+    * Gun: 'A';
+    * Missile: 'S';
+    * Unique Skill:  'D';
+    * Change Skin: 'F6'
+  = Mouse Control:
+    * Up\Down\Left\Right: Move Mouse;
+    * Gun: Right Button;
+    * Missile: Left Button.
+  = Tips:
+    * You damage enemy tanks only when center-aligning two tanks (enemy tanks will flash)
+    * Tanks will crash when they are too close.
+    * "Unique Skill" also damage yourself.
+
+==Screenshots==
+  = ./screenshots

@@ -1,0 +1,5 @@
+/bin/*.BGI
+/bin/*.CHR
+
+/src/*.BGI
+/src/*.CHR
