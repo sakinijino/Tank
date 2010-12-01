@@ -4,7 +4,7 @@ Installation
     * TANK is a DOS game so that can not run at Win32 mode.
     * You can use Dos emulator (eg. www.Dosbox.com) to run the game.
   * Play with Binary:
-    * Copy all files in ./bgi to ./bin.
+    * Unzip TANK.zip.
     * Run Tank.exe.
   * Play with Source Code:
     * Setup your pascal programming environment (eg. Turbo Pascal).
